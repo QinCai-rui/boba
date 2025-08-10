@@ -2,6 +2,12 @@ img {
     width: 400px;
 }
 
+/* all text 10% bigger on hover */
+body *:hover {
+    font-size: 110%;
+    transition: font-size 0.2s;
+}
+
 body {
     text-align: center;
     font-family: "Lato", sans-serif;
