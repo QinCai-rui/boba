@@ -2,10 +2,10 @@ img {
     width: 400px;
 }
 
-/* all text 10% bigger on hover */
+/* all text 5% bigger on hover */
 body *:hover {
-    font-size: 110%;
-    transition: font-size 0.2s;
+    font-size: 105%;
+    transition: font-size 0.1s;
 }
 
 body {
